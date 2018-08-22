@@ -6,3 +6,4 @@ TextViews, Buttons, TableLayout, TableRows, RelativeLayout etc.
 For now, the game has only Local 2-players mode. In the future, two more modes will be added that are:
 Play With Device(having 2 Difficulty levels) and Online Multiplayer mode. 
 This app is just created to get some familiarity with the Kotlin language, otherwise this game is not something new.
+If you want to try the current state of the app, you can do it by installing the apk file on your Android Device.
